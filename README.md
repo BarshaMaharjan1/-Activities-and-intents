@@ -3,5 +3,5 @@
 
 <img src="s2.png" width="150">
 
-<img src="ssg.gif" width="150">
+<img src="hhg.gif" width="150">
 
